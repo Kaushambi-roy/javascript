@@ -18,7 +18,7 @@ let myNewDate = new Date("01-24-2023")
 console.log(myNewDate.toLocaleString());
 
 
-//*********************************DATE-STAMPS*************/
+//********************************DATE-STAMPS*************/
 console.log("*********************************DATE-STAMPS*************/");
 
 let myTimestamp = Date.now()

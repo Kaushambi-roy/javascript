@@ -15,7 +15,7 @@ console.log(valuenumber);
 //use boolean(var_name_to be converted) to convert in boolean
 //use string(var_name_to be converted) to convert in string
 
-//**************************************OPERATIONS************************************
+//*************************************OPERATIONS************************************
 
 let value = 3
 let negvalue = -value

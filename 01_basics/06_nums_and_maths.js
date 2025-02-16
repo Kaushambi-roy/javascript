@@ -16,7 +16,7 @@ console.log(hundreds.toLocaleString('en-IN'));
 
 
 
-//******************maths**************//
+//*****************maths**************//
 
 console.log("//******************maths****************//")
 

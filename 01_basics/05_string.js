@@ -1,7 +1,7 @@
 const name = "kaushambi"
 const repoCount = 10
 
-//console.log(name + repoCount + "value");    //do not use this 
+//console.log(name + repoCount + "value");    //do not use this (inappropriate)
 
 console.log(`Hello my name is ${name} and my repocount is ${repoCount}`);
 

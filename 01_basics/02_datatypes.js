@@ -13,7 +13,7 @@ let age = 21    // int datatype
 let isLoggedIn = false    //boolean data type
 
 
-/* types of datatypes
+/*** types of datatypes
 
 number => ranges between 2 to pwer 23
 bigint 

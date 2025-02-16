@@ -34,7 +34,7 @@ const myFunction = function(){
 }
 
 
-//*****************************************************//
+//****************************************************//
 //two types of memory as follows
 //stack memory  (used in primitive data type)
 //heap memory (used in non primitive data type)

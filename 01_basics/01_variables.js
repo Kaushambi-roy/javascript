@@ -7,7 +7,7 @@ let accounstate;
 // accountId = 2  //note allowed to rewrite a constant
 
 
-/*
+/**
 prefer not to use "var"
 because of its issue in block scope and functional scope
 
