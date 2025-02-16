@@ -47,7 +47,7 @@
 
 
 // //splice   - It actually changes the original array..it extracts the elements from the original array
-// //Also it  prints the number of element in the range from the starting to the end range
+// //Also it  prints the number of elem in the range from the starting to the end range
 // console.log("A" , myArr);    
 // const myNA2 = myArr.splice(1,3)
 // console.log(myNA2);
