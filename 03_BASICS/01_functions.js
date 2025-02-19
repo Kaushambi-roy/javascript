@@ -82,7 +82,7 @@ handleObject2({
     gender: "f"
 })
 
-///******** function - 8 ******/
+///******* function - 8 ******/
 // arrays in function
 
 const myNewArray = [200, 300, 400, 500, 600]
